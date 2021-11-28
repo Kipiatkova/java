@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore
+* [.gitignore](https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore)
 
 
 
@@ -23,4 +23,4 @@
 
 Тестирование производилось в следующем окружении:
 * Windows 10 (64-разрядная операционная система)
-* Java 11.
+* Java version "11.0.13"
